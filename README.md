@@ -1,4 +1,4 @@
 # paper-scissor-game
 this is a paper scissor game
 <br>
-author-mustaque alma
+author-mustaque alam
